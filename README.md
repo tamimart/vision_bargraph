@@ -16,3 +16,8 @@ Este repositório contém o código desenvolvido como trabalho final da discipli
   - pdfplumber
   - OpenCV
   - Tesseract OCR
+
+## Membros
+-	Gabriel da Silva Stuart
+-	Vitória Soares dos Santos
+- Tamires Martins Marchetto
