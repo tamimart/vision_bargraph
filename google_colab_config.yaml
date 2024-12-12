@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/facul/Graph/Graph' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+nc: 2
+
+names:
+  0: bar
+  1: scale
+
