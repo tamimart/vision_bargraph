@@ -25,6 +25,7 @@ Este repositório contém o código desenvolvido como trabalho final da discipli
 ## Sequência de execução
 1. extrair_imagens.ipynb 
 1. extrair_imagens_fastercnn.ipynb
+1. extrair_imagens_yolo.ipynb
 2. aumentar_dataset.ipynb 
 3. classificar_imagens_cnns.ipynb 
 3. classificar_imagens_ml.ipynb 
